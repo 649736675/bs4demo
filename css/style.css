@@ -3,6 +3,8 @@
 	width: 12rem;
 	height: 100%;
 	margin-bottom: 0rem;
+	margin-bottom: 0;
+	padding-top: 1rem;
 }
 
 .lie a {
